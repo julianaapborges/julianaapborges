@@ -35,6 +35,8 @@ Sou estudante de Ciência da Computação na UFOP, apaixonada por desenvolviment
 - [Jogo Termo](https://github.com/julianaapborges/Jogo_Termo)
 - [Automação Spotify](https://github.com/julianaapborges/AutomacaoSpotify)
 - [Bootcamp Santander - Python](https://github.com/julianaapborges/BootcampSantander_Python)
+- [Prompt_Manager](https://github.com/julianaapborges/Prompt_Manager.git)]
+
 
 ## 📫 Contato
 
