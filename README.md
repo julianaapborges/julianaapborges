@@ -22,9 +22,10 @@ Sou estudante de Ciência da Computação na UFOP, apaixonada por desenvolviment
 ![Git](https://img.shields.io/badge/Git-111184?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-111184?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-111184?style=for-the-badge&logo=docker&logoColor=white)
-## 📊 Estatísticas
 
 ## 📊 Estatísticas
+
+📌 Perfil focado em projetos práticos, estudos em Ciência da Computação
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julianaapborges&show_icons=true&theme=github_dark&cache_seconds=3600)
 
