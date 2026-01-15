@@ -24,9 +24,11 @@ Sou estudante de Ciência da Computação na UFOP, apaixonada por desenvolviment
 ![Docker](https://img.shields.io/badge/Docker-111184?style=for-the-badge&logo=docker&logoColor=white)
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julianaapborges&show_icons=true&theme=radical&cache_seconds=1800)
+## 📊 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianaapborges&layout=compact&theme=radical&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julianaapborges&show_icons=true&theme=github_dark&cache_seconds=3600)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianaapborges&layout=compact&theme=github_dark&cache_seconds=3600)
 
 ## 🌱 Projetos em destaque
 
