@@ -22,6 +22,11 @@ Sou estudante de Ciência da Computação na UFOP, apaixonada por desenvolviment
 ![Git](https://img.shields.io/badge/Git-111184?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-111184?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-111184?style=for-the-badge&logo=docker&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-111184?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-111184?style=for-the-badge&logo=react&logoColor=white)
+![Doxygen](https://img.shields.io/badge/Doxygen-111184?style=for-the-badge&logo=doxygen&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111184?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111184?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 📊 Estatísticas
 
@@ -34,6 +39,8 @@ Sou estudante de Ciência da Computação na UFOP, apaixonada por desenvolviment
 ## 🌱 Projetos em destaque
 
 - [Portfólio Pessoal](https://github.com/julianaapborges/Portfolio)
+- [CliniGest](https://github.com/julianaapborges/CliniGest)
+- [Dinâmica de Sistemas](https://github.com/julianaapborges/Projeto_Engenharia_Software_1)
 - [Metagame Assistant](https://github.com/julianaapborges/Metagame_Assistant)
 - [Jogo Termo](https://github.com/julianaapborges/Jogo_Termo)
 - [Automação Spotify](https://github.com/julianaapborges/AutomacaoSpotify)
